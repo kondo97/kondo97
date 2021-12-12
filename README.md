@@ -11,19 +11,5 @@ I have experienced in some startup companies.
 ## Other
 [My Qiita Profile](https://qiita.com/kondo97)
 
-## Skills
-- HTML5 
-- CSS3 / BEM
-- SASS(SCSS)
-- Vuetify / TailwindCSS
-- JavaScript(ES6) / TypeScript
-- Vue.js / Nuxt.js
-- React.js/Next.js
-- Node.js/Express/Prisma
-- Jest/supertest
-- Firebase( fireauth / firestore / storage / hosting / functions )
-- Git / Github 
-- Wordpress
-- Contentful / Netlify / Vercel
 
 
