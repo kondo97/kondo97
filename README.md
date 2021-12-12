@@ -2,7 +2,7 @@
 
 ## :white_check_mark: About 
 I’ｍ currently studying programming on my own.<br>
-I have experienced in some startup companies. 
+I have experienced a little as engineer in some startup companies. 
 
 ## :white_check_mark: Works
 [1 Share Hondana](https://github.com/kondo97/share-books)<br>
