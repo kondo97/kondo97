@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi, I'm Kondo97 👋
 
-<!--
-**kondo97/kondo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About 
+I’ｍ currently studying programming on my own.<br>
+I have experienced in some startup companies. 
 
-Here are some ideas to get you started:
+## Works
+[1 Share Hondana](https://github.com/kondo97/share-books)<br>
+[2 Deep Memo](https://github.com/kondo97/deep-memo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other
+[My Qiita Profile](https://qiita.com/kondo97)
+
+## Skills
+- HTML5 
+- CSS3 / BEM
+- SASS(SCSS)
+- Vuetify / TailwindCSS
+- JavaScript(ES6) / TypeScript
+- Vue.js / Nuxt.js
+- React.js/Next.js
+- Node.js/Express/Prisma
+- Jest/supertest
+- Firebase( fireauth / firestore / storage / hosting / functions )
+- Git / Github 
+- Wordpress
+- Contentful / Netlify / Vercel
+
+
