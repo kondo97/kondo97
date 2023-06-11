@@ -1,15 +1,8 @@
-### Hi, I'm Kondo97 👋
+### Hi, I'm Kondo 👋
 
 ## :white_check_mark: About 
-I’ｍ currently studying programming on my own.<br>
-I have experienced a little as engineer in some startup companies. 
+I'm Web Enginner in Japan.
 
-## :white_check_mark: Works
-[1 Share Hondana](https://github.com/kondo97/share-books)<br>
-[2 Deep Memo](https://github.com/kondo97/deep-memo)
-
-## :white_check_mark: Other
-[My Qiita Profile](https://qiita.com/kondo97)
-
-
+## :white_check_mark: Tech
+Typescript、React.js、Ruby、Ruby on Rails、AWS
 
