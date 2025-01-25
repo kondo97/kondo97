@@ -1,8 +1,13 @@
-### Hi, I'm Kondo 👋
+---
+icon: hand-wave
+---
 
-## :white_check_mark: About 
+# Hi, I'm Kondo 👋
+
+:white\_check\_mark: **About**
+
 I'm Web Enginner in Japan.
 
-## :white_check_mark: Tech
-C, Golang, Typescript, Ruby
+:white\_check\_mark: **Tech**
 
+C, Golang, Typescript, Ruby
